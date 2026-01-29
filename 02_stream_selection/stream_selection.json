@@ -1,0 +1,49 @@
+{
+    "topic_id": "02_stream_selection",
+    "topic_name": "Merchant Navy Stream Selection",
+    "last_updated": "2026-01-29",
+    "version": "1.0",
+    "source_documents": ["Superfile_2_Knowledge_Engine"],
+    "faqs": [
+          {
+                  "id": "FAQ001",
+                  "question": "What are the different streams in Merchant Navy?",
+                  "answer": "There are three main streams in Merchant Navy: Deck Officers (Navigation), Engineer Officers (Marine Engineering), and Supply Chain Officers. Deck officers handle navigation and cargo management. Engineer officers manage ship machinery and technical systems. Supply chain officers handle provisioning and logistics.",
+                  "keywords": ["streams", "deck", "engineer", "career paths"],
+                  "source": "IMU Course Structure",
+                  "confidence": "HIGH"
+          },
+          {
+                  "id": "FAQ002",
+                  "question": "How do I choose between Deck and Engineer streams?",
+                  "answer": "Choice depends on your interest and aptitude. Deck stream involves navigation, seamanship, and cargo operations - suited for those interested in maritime operations. Engineer stream focuses on mechanical engineering and ship systems - ideal for those with technical interests.",
+                  "keywords": ["stream selection", "deck vs engineer", "choice"],
+                  "source": "Career Guidance",
+                  "confidence": "HIGH"
+          }
+    ],
+    "key_facts": [
+          {
+                  "id": "FACT001",
+                  "fact": "Deck Officer - Handles navigation and vessel operations",
+                  "category": "stream"
+          },
+          {
+                  "id": "FACT002",
+                  "fact": "Engineer Officer - Manages ship machinery and engines",
+                  "category": "stream"
+          },
+          {
+                  "id": "FACT003",
+                  "fact": "Stream selection based on aptitude and career interests",
+                  "category": "selection"
+          }
+    ],
+    "external_links": [
+          {
+                  "title": "IMU Course Streams",
+                  "url": "https://www.imu.ac.in/programmes/",
+                  "type": "official"
+          }
+    ]
+}
