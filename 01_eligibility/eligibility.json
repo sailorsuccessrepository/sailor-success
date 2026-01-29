@@ -1,0 +1,72 @@
+{
+    "topic_id": "01_eligibility",
+    "topic_name": "Merchant Navy Eligibility",
+    "last_updated": "2026-01-29",
+    "version": "1.0",
+    "source_documents": ["SailorGPT_v1_MasterBrain", "Superfile_2_Knowledge_Engine"],
+    "faqs": [
+          {
+                  "id": "FAQ001",
+                  "question": "What are the basic eligibility criteria for joining Merchant Navy?",
+                  "answer": "Candidates must be Indian nationals with 10+2 pass (Science stream with Physics, Chemistry, Mathematics). Age should be 17-25 years at the time of admission to Maritime institutes. Medical fitness as per DGS standards is mandatory.",
+                  "keywords": ["eligibility", "requirements", "age", "education"],
+                  "source": "DGS/IMU Guidelines",
+                  "confidence": "HIGH"
+          },
+          {
+                  "id": "FAQ002",
+                  "question": "Is 10+2 Science mandatory for Merchant Navy?",
+                  "answer": "Yes, 10+2 Science with Physics, Chemistry, and Mathematics is mandatory for joining Merchant Navy courses through IMU-CET. This is a standard requirement set by Indian Maritime University.",
+                  "keywords": ["eligibility", "10+2", "science", "PCM"],
+                  "source": "IMU Admission Requirements",
+                  "confidence": "HIGH"
+          },
+          {
+                  "id": "FAQ003",
+                  "question": "What is the age limit for Merchant Navy officers?",
+                  "answer": "The ideal age for joining Maritime Academy is 17-25 years. Some institutes may have relaxations up to 28 years for certain categories. Age is calculated as on the date of admission.",
+                  "keywords": ["age limit", "eligibility", "17-25 years"],
+                  "source": "DGS/IMU Regulations",
+                  "confidence": "HIGH"
+          }
+    ],
+    "key_facts": [
+          {
+                  "id": "FACT001",
+                  "fact": "Minimum age: 17 years",
+                  "category": "age"
+          },
+          {
+                  "id": "FACT002",
+                  "fact": "Maximum age: 25 years (28 for reserved categories)",
+                  "category": "age"
+          },
+          {
+                  "id": "FACT003",
+                  "fact": "Education: 10+2 Science (Physics, Chemistry, Mathematics)",
+                  "category": "education"
+          },
+          {
+                  "id": "FACT004",
+                  "fact": "Medical fitness: As per DGS (Directorate General of Shipping) norms",
+                  "category": "medical"
+          },
+          {
+                  "id": "FACT005",
+                  "fact": "Vision: 6/6 correctable to 6/6 in each eye",
+                  "category": "vision"
+          }
+    ],
+    "external_links": [
+          {
+                  "title": "DGS Official Website",
+                  "url": "https://dgshipping.gov.in/",
+                  "type": "official"
+          },
+          {
+                  "title": "Indian Maritime University",
+                  "url": "https://www.imu.ac.in/",
+                  "type": "official"
+          }
+    ]
+}
